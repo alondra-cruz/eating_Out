@@ -38,7 +38,7 @@ mydata <- select(GSS,race,age,eatout)
 mydata <- na.omit(mydata)
 ```
 # Method
-Race is the categorical variable and how often they eat out is numerical. We have a Cat ~ Num. 
+One method we are using is GSS data from the University of Chicago. Race is the categorical variable and how often they eat out is numerical. We have a Cat ~ Num. 
 
 # Descriptive Results
 
